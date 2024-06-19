@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Base.resources
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inventario.resources
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar.resources
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Eliminar.resources
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Caja.resources
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\usuario\source\repos\Evaluacion2_.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reportes.resources
